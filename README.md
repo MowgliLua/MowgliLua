@@ -4,4 +4,4 @@ I'm a student Developer !
 
 🔭 I’m currently working on a FiveM Framework
 
-🌱 I’m currently learning Ruby, C#, HTML/CSS 🤣
+🌱 I’m currently learning LUA, JS, HTML/CSS 🤣
